@@ -17,7 +17,7 @@ setup(
         'pydot',
         'numpy',
         'zope.dottedname',
-        'rpy2',
+        ##'rpy2',
         'pulp',
         'tablib',
         'MySQL-python',
